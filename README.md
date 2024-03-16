@@ -6,12 +6,14 @@ For Good Result. its Better To Choose Time More Then 10 Second ...
 
 
 USAGE :
-
+```
 git clone https://github.com/HYZ3K/IP_Changer.git
-
+```
+```
 cd IP_Changer
-
+```
+```
 sudo Python3 Changer.py
-
+```
 
 https://t.me/HYZ3K
